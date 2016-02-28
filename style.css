@@ -1,0 +1,118 @@
+body{
+	background-color:#FFFFFF;
+	font-size: 18px;
+	font-weight: lighter;
+	font-family: raleway;
+	line-height: 24px;
+	padding: 0;
+	margin: 0;
+}
+
+section{
+	text-align: center;
+  background-color: #0E294F;
+	background-image: url(otagocampus.png);
+  background-size: 1346px 381px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+h1 {
+	  width: 150px;
+	  height: 150px;
+	  background-image: url(otagologo.png);
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+#title{
+	background-color: #f9c000;
+	
+}
+h2 {
+	  margin: 0;
+	  padding-top:  25px;
+	  padding-bottom: 25px;
+	  padding-left: 60px;
+    font-size: 20pt;
+	font-family: raleway;
+	  text-align: left;
+	  color: black;
+}
+
+header {
+    width: 722px;
+    text-align: center;
+    display: inline-block;
+}
+
+#main{
+	font-size: 16px;
+	font-weight:lighter;
+	font-family: Helvetica;
+	text-align: center;
+	width: 100%;
+}
+
+nav{
+	background-color: white;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+nav ul{
+	list-style-type: none;
+	text-align: center;
+}
+
+nav ul li{
+	display: inline-block;
+	padding: 0 10px;
+	
+}
+
+nav li {
+    list-style-type: none; 
+}
+
+.content{
+	  text-align: left;
+	  padding-left: 60px;
+	  border-bottom: 3px solid #F9F9F2; 
+}
+
+form{
+	display: inline-block;
+	text-align: left;
+	
+	
+}
+
+
+#main form ul {
+    padding-left: 5px;
+}
+
+#main form li {
+    list-style-type: none;
+}
+select{
+   width: 440px;
+   height: 34px;
+   border: 1px solid #ccc;
+}
+
+.table{
+	display: inline-block;
+}
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    vertical-align: middle;
+    width: 100px;
+}
+
+td {
+    border: 1px solid #BBBBBB;
+}

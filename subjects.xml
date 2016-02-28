@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<subjects>
+  <subject>
+    <code>COMP</code>
+    
+  <title>Computer and Information Technology</title></subject>
+  <subject>
+    <code>COSC</code>
+    
+  <title>Computer Science</title></subject>
+  <subject>
+    <code>INFO</code>
+    
+  <title>Information Technology</title></subject>
+</subjects>

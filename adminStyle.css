@@ -1,0 +1,102 @@
+body {
+    font-family: Verdana,sans-serif;
+    font-size: 10pt;
+    background-color: #0E294F;
+    text-align:left;
+}
+
+#wrap{
+    width: 756px;
+    margin: 0 auto;
+    background-color: #EDE177;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 20pt;
+    margin: 0px;
+    float:left;
+}
+
+h2 {
+    font-family: Verdana, sans-serif;
+    font-size: 14pt;
+    padding-bottom: 2px;
+    border-bottom: 1px solid black;
+}
+
+
+
+div, header, nav, footer{
+    padding: 5px;
+    margin: 5px;
+    background-color: #FFF;
+}
+
+header {
+    width: 722px;
+    text-align: center;
+    overflow: hidden;
+    border-left: 10px groove #0B1380;
+    border-right: 2px outset #0B1380;
+    color: #0B1380;
+
+}
+nav {
+    float: left;
+    width: 100px;
+}
+
+nav ul {
+    padding-left: 5px;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+#main {
+	width: 722px;
+	margin: 5px;
+	padding: 10px;
+	float: left;
+	border-right: 2px outset #0B1380;
+	color: #0B1380;
+}
+
+#main form ul {
+    padding-left: 5px;
+}
+
+#main form li {
+    list-style-type: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    vertical-align: middle;
+    width: 100px;
+}
+
+td {
+    border: 1px solid #BBBBBB;
+}
+.paperEdit{
+    font-weight: bold;
+    font-size:14px;
+}
+
+.lecturesEdit li ul li{
+    padding-top: 5px;
+    margin-top: 5px;
+}
+.lecturesEdit li ul li label{
+    text-align:left;
+}
+
+.lectures label{
+    padding-top:5px;
+}

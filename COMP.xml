@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<papers>
+  <paper>
+    
+    
+    
+    <lecture>
+      
+      
+      
+    <day>Wed</day><start>13</start><end>14</end></lecture>
+  <code>COMP111</code><title>Information and Communications Technology</title><semester>1</semester></paper>
+  <paper>
+    <code>COMP111</code>
+    <title>Information and Communications Technology</title>
+    <semester>2</semester>
+    <lecture>
+      <day>Wed</day>
+      <start>13</start>
+      <end>14</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COMP111</code>
+    <title>Information and Communications Technology</title>
+    <semester>S</semester>
+    <lecture>
+      <day>Tue</day>
+      <start>10</start>
+      <end>12</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>10</start>
+      <end>12</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COMP112</code>
+    <title>Web Development and Digital Media</title>
+    <semester>1</semester>
+    <lecture>
+      <day>Mon</day>
+      <start>15</start>
+      <end>16</end>
+    </lecture>
+    <lecture>
+      <day>Wed</day>
+      <start>15</start>
+      <end>16</end>
+    </lecture>
+  </paper>
+  <paper>
+    
+    
+    
+    <lecture>
+      
+      
+      
+    <day>Mon</day><start>9</start><end>10</end></lecture>
+    <lecture>
+      
+      
+      
+    <day>Wed</day><start>14</start><end>15</end></lecture>
+  <code>COMP150</code><title>Practical Programming</title><semester>1</semester></paper>
+  <paper>
+    <code>COMP160</code>
+    <title>General Programming</title>
+    <semester>2</semester>
+    <lecture>
+      <day>Tue</day>
+      <start>16</start>
+      <end>17</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>16</start>
+      <end>17</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COMP160</code>
+    <title>General Programming</title>
+    <semester>S</semester>
+    <lecture>
+      <day>Mon</day>
+      <start>14</start>
+      <end>15</end>
+    </lecture>
+    <lecture>
+      <day>Tue</day>
+      <start>14</start>
+      <end>15</end>
+    </lecture>
+    <lecture>
+      <day>Wed</day>
+      <start>14</start>
+      <end>15</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>14</start>
+      <end>15</end>
+    </lecture>
+    <lecture>
+      <day>Fri</day>
+      <start>14</start>
+      <end>15
+</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COMP202</code>
+    <title>Computing for End Users</title>
+    <semester>1</semester>
+    <lecture>
+      <day>Wed</day>
+      <start>17</start>
+      <end>18</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>17</start>
+      <end>18</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COMP202</code>
+    <title>Computing for End Users</title>
+    <semester>2</semester>
+    <lecture>
+      <day>Wed</day>
+      <start>17</start>
+      <end>18</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>17</start>
+      <end>18</end>
+    </lecture>
+  </paper>
+  <paper>
+    
+    
+    
+    <lecture>
+      
+      
+      
+    <day>Mon</day><start>14</start><end>17</end></lecture>
+    <lecture>
+      
+      
+      
+    <day>Wed</day><start>16</start><end>18</end></lecture>
+  <code>COMP213</code><title>Social Media and Communications</title><semester>2</semester></paper>
+</papers>

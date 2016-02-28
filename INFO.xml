@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<papers>
+  <paper>
+    <code>INFO211</code>
+    <title>Systems Analysis, Design and Modelling</title>
+    <semester>1</semester>
+    <lecture>
+      <day>Tue</day>
+      <start>13</start>
+      <end>14</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>16</start>
+      <end>17</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>INFO213</code>
+    <title>Business ICT Strategy</title>
+    <semester>2</semester>
+    <lecture>
+      <day>Mon</day>
+      <start>13</start>
+      <end>14</end>
+    </lecture>
+    <lecture>
+      <day>Wed</day>
+      <start>14</start>
+      <end>15</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>INFO214</code>
+    <title>Business ICT Infrastructure</title>
+    <semester>1</semester>
+    <lecture>
+      <day>Mon</day>
+      <start>15</start>
+      <end>16</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>15</start>
+      <end>16</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>INFO221</code>
+    <title>Application Software Development</title>
+    <semester>2</semester>
+    <lecture>
+      <day>Tue</day>
+      <start>10</start>
+      <end>11</end>
+    </lecture>
+    <lecture>
+      <day>Wed</day>
+      <start>10</start>
+      <end>11</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>INFO312</code>
+    <title>Information Systems Development Project</title>
+    <semester>F</semester>
+    <lecture>
+      <day>Tue</day>
+      <start>12</start>
+      <end>13</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>INFO321</code>
+    <title>Enterprise Data Management</title>
+    <semester>2</semester>
+    <lecture>
+      <day>Wed</day>
+      <start>12</start>
+      <end>13</end>
+    </lecture>
+    <lecture>
+      <day>Fri</day>
+      <start>11</start>
+      <end>12</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>INFO323</code>
+    <title>Distributed Information Systems</title>
+    <semester>1</semester>
+    <lecture>
+      <day>Wed</day>
+      <start>12</start>
+      <end>13</end>
+    </lecture>
+    <lecture>
+      <day>Fri</day>
+      <start>11</start>
+      <end>12</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>INFO324</code>
+    <title>Adaptive Business Intelligence</title>
+    <semester>2</semester>
+    <lecture>
+      <day>Mon</day>
+      <start>10</start>
+      <end>11</end>
+    </lecture>
+    <lecture>
+      <day>Tue</day>
+      <start>10</start>
+      <end>11</end>
+    </lecture>
+  </paper>
+  <paper>
+    
+    
+    
+    <lecture>
+      
+      
+      
+    <day>Tue</day><start>9</start><end>10</end></lecture>
+    <lecture>
+      
+      
+      
+    <day>Thu</day><start>9</start><end>10</end></lecture>
+  <code>INFO340</code><title>Interactive Systems Design</title><semester>1</semester></paper>
+  <paper>
+    
+    
+    
+    <lecture>
+      
+      
+      
+    <day>Tue</day><start>9</start><end>10</end></lecture>
+  <code>INFO390</code><title>Data Science and Mining</title><semester>F</semester></paper>
+  <paper>
+    <code>INFO393</code>
+    <title>Information Assurance</title>
+    <semester>1</semester>
+    <lecture>
+      <day>Thu</day>
+      <start>14</start>
+      <end>16</end>
+    </lecture>
+  </paper>
+<paper><code>INFO411</code><title>Advance Database System</title><semester>1</semester><lecture><day>Wed</day><start>13</start><end>14</end></lecture></paper></papers>

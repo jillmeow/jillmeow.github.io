@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<papers>
+  <paper>
+    
+    
+    
+    <lecture>
+      
+      
+      
+    <day>Wed</day><start>10</start><end>11</end></lecture>
+    <lecture>
+      
+      
+      
+    <day>Fri</day><start>13</start><end>14</end></lecture>
+  <code>COSC241</code><title>Programming and Problem Solving</title><semester>2</semester></paper>
+  <paper>
+    <code>COSC242</code>
+    <title>Algorithms and Data Structures</title>
+    <semester>2</semester>
+    <lecture>
+      <day>Mon</day>
+      <start>11</start>
+      <end>12</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>11</start>
+      <end>12</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COSC243</code>
+    <title>Computer Architecture and Operating Systems</title>
+    <semester>1</semester>
+    <lecture>
+      <day>Tue</day>
+      <start>11</start>
+      <end>12</end>
+    </lecture>
+    <lecture>
+      <day>Fri</day>
+      <start>11</start>
+      <end>12</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COSC244</code>
+    <title>Data-Communications, Networks, and the Internet</title>
+    <semester>2</semester>
+    <lecture>
+      <day>Tue</day>
+      <start>11</start>
+      <end>12</end>
+    </lecture>
+    <lecture>
+      <day>Fri</day>
+      <start>11</start>
+      <end>12</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COSC326</code>
+    <title>Effecitve Programming</title>
+    <semester>1</semester>
+  </paper>
+  <paper>
+    <code>COSC326</code>
+    <title>Effecitve Programming</title>
+    <semester>2</semester>
+  </paper>
+  <paper>
+    <code>COSC326</code>
+    <title>Effecitve Programming</title>
+    <semester>S</semester>
+  </paper>
+  <paper>
+    <code>COSC341</code>
+    <title>Theory of Computing</title>
+    <semester>1</semester>
+    <lecture>
+      <day>Tue</day>
+      <start>13</start>
+      <end>14</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>13</start>
+      <end>14</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COSC342</code>
+    <title>Computer Graphics</title>
+    <semester>1</semester>
+    <lecture>
+      <day>Tue</day>
+      <start>9</start>
+      <end>10</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>9</start>
+      <end>10</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COSC343</code>
+    <title>Artificial Intelligence</title>
+    <semester>1</semester>
+    <lecture>
+      <day>Mon</day>
+      <start>9</start>
+      <end>10</end>
+    </lecture>
+    <lecture>
+      <day>Wed</day>
+      <start>9</start>
+      <end>10</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COSC344</code>
+    <title>Database Theory and Applications</title>
+    <semester>2</semester>
+    <lecture>
+      <day>Tue</day>
+      <start>9</start>
+      <end>10</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>9</start>
+      <end>10</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COSC345</code>
+    <title>Software Engineering</title>
+    <semester>F</semester>
+    <lecture>
+      <day>Fri</day>
+      <start>9</start>
+      <end>10</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COSC346</code>
+    <title>Object-Oriented Programming and User Interfaces</title>
+    <semester>2</semester>
+    <lecture>
+      <day>Tue</day>
+      <start>13</start>
+      <end>14</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>13</start>
+      <end>14</end>
+    </lecture>
+  </paper>
+  <paper>
+    <code>COSC360</code>
+    <title>Computer Game Design</title>
+    <semester>S</semester>
+    <lecture>
+      <day>Mon</day>
+      <start>10</start>
+      <end>11</end>
+    </lecture>
+    <lecture>
+      <day>Tue</day>
+      <start>10</start>
+      <end>11</end>
+    </lecture>
+    <lecture>
+      <day>Wed</day>
+      <start>10</start>
+      <end>11</end>
+    </lecture>
+    <lecture>
+      <day>Thu</day>
+      <start>10</start>
+      <end>11</end>
+    </lecture>
+    <lecture>
+      <day>Fri</day>
+      <start>10</start>
+      <end>11</end>
+    </lecture>
+  </paper>
+<paper><lecture><day>Mon</day><start>3</start><end>4</end></lecture><code>COSC370</code><title>Wireless Communication and Networking</title><semester>2</semester></paper></papers>
